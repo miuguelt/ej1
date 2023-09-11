@@ -4,4 +4,4 @@ Esta es mi primera modificación
 
 
 
-Esta es una modificación de uno de mis compañeros de trabajo -----Miguel
+Esta es una modificación -----Miguel
